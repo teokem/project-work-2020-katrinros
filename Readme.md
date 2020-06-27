@@ -67,3 +67,6 @@ Katrin
 
 ### Questions/contact
 For any questions, please email katrin.ros@astro.lu.se
+
+
+[![DOI](https://zenodo.org/badge/246933560.svg)](https://zenodo.org/badge/latestdoi/246933560)
